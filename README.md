@@ -40,7 +40,7 @@ Modern productivity web app concept focused on deep work, focus, and organized f
 ### GoldenVisaKW
 Modern web platform for international investment, residency, and citizenship services.
 - Demo: https://goldenvisakw.com
-- Repo: https://github.com/berfinida
+- Repo: https://github.com/berfinida/GoldenVisa
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/berfin-nida-%C3%B6zt%C3%BCrk-6a12131b7/
